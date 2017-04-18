@@ -1,0 +1,8 @@
+C:\Projects\Polarmediamgmo\PolarmediaMGMOv2\PolarmediaHomeSite\bin\Debug\netcoreapp1.1\PolarmediaHomeSite.deps.json
+C:\Projects\Polarmediamgmo\PolarmediaMGMOv2\PolarmediaHomeSite\bin\Debug\netcoreapp1.1\PolarmediaHomeSite.runtimeconfig.json
+C:\Projects\Polarmediamgmo\PolarmediaMGMOv2\PolarmediaHomeSite\bin\Debug\netcoreapp1.1\PolarmediaHomeSite.runtimeconfig.dev.json
+C:\Projects\Polarmediamgmo\PolarmediaMGMOv2\PolarmediaHomeSite\bin\Debug\netcoreapp1.1\PolarmediaHomeSite.dll
+C:\Projects\Polarmediamgmo\PolarmediaMGMOv2\PolarmediaHomeSite\bin\Debug\netcoreapp1.1\PolarmediaHomeSite.pdb
+C:\Projects\Polarmediamgmo\PolarmediaMGMOv2\PolarmediaHomeSite\obj\Debug\netcoreapp1.1\PolarmediaHomeSite.AssemblyInfo.cs
+C:\Projects\Polarmediamgmo\PolarmediaMGMOv2\PolarmediaHomeSite\obj\Debug\netcoreapp1.1\PolarmediaHomeSite.dll
+C:\Projects\Polarmediamgmo\PolarmediaMGMOv2\PolarmediaHomeSite\obj\Debug\netcoreapp1.1\PolarmediaHomeSite.pdb
